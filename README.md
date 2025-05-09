@@ -1,4 +1,4 @@
-# DA623 Data Analysis Project - Aditya Kumar
+# DA623  Project - Aditya Kumar
 
 **Course:** Computing with Signals
 **Student Name:** Aditya Kumar
