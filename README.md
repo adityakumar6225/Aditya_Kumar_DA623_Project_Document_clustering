@@ -41,13 +41,6 @@ This project demonstrates a full data analysis pipeline focused on document clus
 * Titanic dataset visual exploration
 * KDE plots and synthetic data cluster separation
 
-## Presentation
-
-A full video walkthrough script is provided in:
-
-* AdityaKumar\_DA623\_Presentation\_Script.pdf
-* Final presentation with output graphs: AdityaKumar\_DA623\_Complete\_Presentation\_With\_Graphs.pptx
-
 ## Author
 
 Aditya Kumar
